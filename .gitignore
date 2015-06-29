@@ -1,0 +1,17 @@
+.idea
+*.iml
+target
+.DS_Store
+main/src/main/resources/log4j.properties
+main/src/main/resources/database.properties
+main/src/main/resources/medis.xml
+main/src/main/resources/interface.properties
+main/src/main/resources/groupgeo.xml
+main/src/main/resources/domain.properties
+main/src/main/resources/quartz.properties
+main/src/main/resources/mtrace.properties
+main/src/main/resources/thrift-server.xml
+main/src/main/resources/jmonitor.properties
+main/src/main/resources/jetty/boot.ini
+**/.sass-cache
+**/node_modules
