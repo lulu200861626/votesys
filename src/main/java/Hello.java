@@ -2,14 +2,15 @@
  * Created by lulu on 15/6/29.
  */
 public class Hello {
-    public Integer getId() {
-        return id;
+    public Integer getI() {
+        return i;
     }
 
-    public void setId(Integer id) {
-        this.id = id;
+    public void setI(Integer i) {
+        this.i = i;
     }
 
-    public Integer id;
+    public Integer i;
+    public Integer a;
 
 }
